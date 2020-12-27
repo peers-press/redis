@@ -1,5 +1,5 @@
 services:
-- type: webservice
+- type: webs
   name: redis
   env: docker
   disk:
